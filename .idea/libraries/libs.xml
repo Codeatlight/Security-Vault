@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring31-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-springsecurity3-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring31-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring3-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-springsecurity2-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring3-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-wicket15-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-springsecurity2-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring2-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-wicket13-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-hibernate3-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-wicket13-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-hibernate3-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-wicket15-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-hibernate4-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring2-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-hibernate4-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring2-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-springsecurity2-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-wicket13-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-1.9.2-lite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-acegisecurity-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring3-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/sqlite-jdbc-3.19.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-springsecurity3-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-acegisecurity-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-hibernate4-1.9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-springsecurity3-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/icu4j-3.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-hibernate3-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-wicket15-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-acegisecurity-1.9.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/password-manager-master/libs/jasypt-spring31-1.9.2-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
